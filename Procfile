@@ -1,1 +1,1 @@
-web:gunicorn app:nutri-del-3
+web: gunicorn app:app
